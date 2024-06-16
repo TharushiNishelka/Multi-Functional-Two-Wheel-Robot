@@ -44,6 +44,15 @@ Our project, completed for the Sri Lanka Robotic Challenge 2024, achieved the ho
 
 ![SLRC (6)](https://github.com/TharushiNishelka/Multi-Functional-Two-Wheel-Robot/assets/172804211/c7a49f07-4459-4f1f-a56b-6c385b98a4c1)
 
+## PCB Design
+
+This 4-layer PCB is specifically engineered for high-speed microcontrollers, notably the STM32F4 series. With meticulous design and layout considerations, it ensures optimal performance and reliability, catering to the demanding requirements of modern applications 
+
+![Screenshot 2024-04-20 155417](https://github.com/TharushiNishelka/Multi-Functional-Two-Wheel-Robot/assets/172804211/f5ca7e8a-6068-4150-a8c6-5f6b211f691b)
+
+![X2_oTnxD72c4C](https://github.com/TharushiNishelka/Multi-Functional-Two-Wheel-Robot/assets/172804211/7e032838-fa4c-470e-afad-655cb238b39e)
+
+![X2_N0NymQHaen](https://github.com/TharushiNishelka/Multi-Functional-Two-Wheel-Robot/assets/172804211/e134efcc-9144-4843-ba98-3314a63a24ae)
 
 
 
